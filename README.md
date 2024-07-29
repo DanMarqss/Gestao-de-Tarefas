@@ -43,9 +43,8 @@ Criação de Crud em Java Trabalho Interdisciplinar Aplicações para Processos 
 
 ---
 
-## 🔗 Links do projeto
+## 🔗 Links de Estudo que Utilizei
 
-- [Playlist do Youtube com vídeos do curso](https://www.youtube.com/watch?v=YcO-Q6yozmU&list=PLiXotHlANc8ptwP6wajo73OZo9Nh5i597)
-- [Documento de ferramentas e configuração de ambiente](docs/Ferramentas%20e%20configura%C3%A7%C3%A3o%20do%20ambiente.pdf)
+- [Playlist do Youtube com vídeos do curso](https://www.youtube.com/watch?v=-v0sfER0po8&list=PLJ0IKu7KZpCQKdwRbU7HfXW3raImmghWZ)
 
 
