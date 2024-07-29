@@ -34,12 +34,10 @@ Criação de Crud em C# com .NET/Core para avaliação de um teste técnico para
 ---
 
 ## 🚀 Tecnologias
- - [Bootstrap 5](https://getbootstrap.com/)
- - [C#](https://learn.microsoft.com/pt-br/dotnet/csharp/)
-- Ferramentas
-  - [VsCode](https://code.visualstudio.com/)
-  - [.NET](https://dotnet.microsoft.com/pt-br/)
-  - [GitHub](https://github.com/)
+- [C#](https://learn.microsoft.com/pt-br/dotnet/csharp/)
+- [VsCode](https://code.visualstudio.com/)
+- [.NET](https://dotnet.microsoft.com/pt-br/)
+- [GitHub](https://github.com/)
 
 ---
 
