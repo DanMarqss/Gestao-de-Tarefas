@@ -1,0 +1,5 @@
+C:\Users\danilo.pinto\Gestao-de-Tarefas\CodeFonte\TaskManager\obj\Debug\net8.0\TaskManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danilo.pinto\Gestao-de-Tarefas\CodeFonte\TaskManager\obj\Debug\net8.0\TaskManager.AssemblyInfoInputs.cache
+C:\Users\danilo.pinto\Gestao-de-Tarefas\CodeFonte\TaskManager\obj\Debug\net8.0\TaskManager.AssemblyInfo.cs
+C:\Users\danilo.pinto\Gestao-de-Tarefas\CodeFonte\TaskManager\obj\Debug\net8.0\TaskManager.csproj.CoreCompileInputs.cache
+C:\Users\danilo.pinto\Gestao-de-Tarefas\CodeFonte\TaskManager\obj\Debug\net8.0\TaskManager.sourcelink.json
