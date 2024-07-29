@@ -10,4 +10,4 @@ namespace TaskManager.Models
     }
 }
 
-// Essa é a Modelagem de Dados
+// Essa é a Modelagem de Dados onde foi solicitado no teste para que criasse os seguintes atributos: itle, Description, DueDate, Priority
