@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 using TaskManager.Models;
 using TaskManager.Services;
 
@@ -27,17 +28,18 @@ namespace TaskManager.Controllers
             _taskService.UpdateTask(id, title, description, dueDate, priority);
         }
 
-        public Task GetTaskById(int id)
+        public TaskManager.Models.Task GetTaskById(int id)
         {
             return _taskService.GetTaskById(id);
         }
 
-        public IEnumerable<Task> GetAllTasks()
+        public IEnumerable<TaskManager.Models.Task> GetAllTasks()
         {
             return _taskService.GetAllTasks();
         }
     }
 }
+
 
 
 //Essa classe, creio que é uma das mais importantes, ela faz a ligação entre a apresentação e a camada de serviço, basicamente expôe os metódos do CRUD, delegando a lógica de negócios para a TaskService.
