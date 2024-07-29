@@ -10,7 +10,7 @@
     <p align="center">
       <a href="#-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
       <a href="#-Avaliador">Avaliador</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-      <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+      <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;
 </h3>
 
 <hr>
