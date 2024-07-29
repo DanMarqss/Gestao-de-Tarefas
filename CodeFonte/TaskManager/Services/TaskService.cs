@@ -1,3 +1,5 @@
+using System;
+using System.Collections.Generic;
 using TaskManager.Models;
 
 namespace TaskManager.Services
@@ -13,7 +15,7 @@ namespace TaskManager.Services
 
         public void AddTask(string title, string description, DateTime dueDate, int priority)
         {
-            var task = new Task
+            var task = new TaskManager.Models.Task
             {
                 Title = title,
                 Description = description,
@@ -30,7 +32,7 @@ namespace TaskManager.Services
 
         public void UpdateTask(int id, string title, string description, DateTime dueDate, int priority)
         {
-            var task = new Task
+            var task = new TaskManager.Models.Task
             {
                 Id = id,
                 Title = title,
@@ -41,17 +43,18 @@ namespace TaskManager.Services
             _taskRepository.Update(task);
         }
 
-        public Task GetTaskById(int id)
+        public TaskManager.Models.Task GetTaskById(int id)
         {
             return _taskRepository.GetById(id);
         }
 
-        public IEnumerable<Task> GetAllTasks()
+        public IEnumerable<TaskManager.Models.Task> GetAllTasks()
         {
             return _taskRepository.GetAll();
         }
     }
 }
+
 
 
 //Aqui é a classe que tem a lógica de negócios para gerenciar tarefas. Ela utiliza a interface de repositório para realizar as operações CRUD.
