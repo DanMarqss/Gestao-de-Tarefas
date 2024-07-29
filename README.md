@@ -17,7 +17,7 @@
 
 ## 🔖 Sobre
 
-Criação de Crud em Java Trabalho Interdisciplinar Aplicações para Processos de Negócios do 3º período de Sistema de Informação, Faculdade Metropolitana de Manaus (Fametro) 2024/3.
+Criação de Crud em C# com .NET/Core para avaliação de um teste técnico para um estágio na Peope4Tech.
 
 ---
 
